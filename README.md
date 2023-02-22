@@ -17,6 +17,7 @@
   ## Usage
   first you would install inquirer by typing npm i inquirer in the integrated terminal. then log into mysql and seed the database using node seeds/index.js. Once all that is done bring up the server by using node server.js. Open insomnia and use CRUD as neccesary to make changes.
 
+[Untitled_ Feb 22, 2023 12_09 AM.webm](https://user-images.githubusercontent.com/120345723/220538337-1f1dd873-132b-4436-b7de-08a084493da8.webm)
 
 
   ## Credits
