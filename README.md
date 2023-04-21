@@ -3,7 +3,10 @@
   ## Title
   ORM
 
-
+![GitHub language count](https://img.shields.io/github/languages/count/Maynardj123/Challenge-13?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/Maynardj123/Challenge-13?color=green&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/Maynardj123/Challenge-13?color=yellow&style=flat-square)
+![GitHub](https://img.shields.io/github/license/Maynardj123/Challenge-13?color=orange&style=flat-square)
 
   ## Description
   I built this in order to get a better understanding of how routes work and how they can better be used with models. My motivation was to learn more on how to use insomnia. I learned how to properly use CRUD.
